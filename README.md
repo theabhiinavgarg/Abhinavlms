@@ -1,2 +1,2 @@
 # Abhinavlms
-https://abhinavlms.000webhostapp.com/
+http://abhinavlms.42web.io/
